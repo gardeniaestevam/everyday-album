@@ -1,0 +1,10 @@
+# Spotify API Credentials
+SPOTIFY_CLIENT_ID=your_spotify_client_id_here
+SPOTIFY_CLIENT_SECRET=your_spotify_client_secret_here
+
+# Last.fm API Credentials
+LASTFM_API_KEY=your_lastfm_api_key_here
+
+# Server Configuration
+PORT=
+NODE_ENV=
