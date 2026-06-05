@@ -19,7 +19,7 @@ O **Everyday an Album** é um jogo de adivinhação musical. Todos os dias, um n
 * **Descrição**: O campo de texto para o usuário digitar o seu palpite deve exibir sugestões em tempo real (autocomplete) para evitar erros de digitação.
 * **Origem**: A busca deve consultar a API do Spotify/Last.fm e retornar opções no formato `Nome do Álbum - Nome do Artista`.
 
-### RF03 - Validação de Palpites 
+### RF03 - Validação de Palpites **MVP**
 * **Descrição**: O sistema deve comparar o palpite selecionado pelo usuário com o álbum secreto do dia.
 * **Feedback**:
   * Se estiver correto: Finalizar o jogo como vitória.
